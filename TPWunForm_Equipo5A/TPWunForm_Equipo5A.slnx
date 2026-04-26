@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ClasesArt/ClasesArt.csproj" Id="ae1df131-bde2-455d-8edd-50cb6b6961bb" />
+  <Project Path="ConsoleApp1/Negocio.csproj" Id="cc137471-ed00-4efe-a6be-0b23fb8e30a4" />
+  <Project Path="TPWunForm_Equipo5B/WinFormAppArticulos.csproj" Id="e8ec2a96-f125-4208-ab47-0a8bc49b1ec4" />
+</Solution>
